@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **React Native, UI/UX**
 
-- ⚡ Motto [Crafting Logic, Bridging Ideas, Uniting Teams – Thriving in Code and Creativity](Crafting Logic, Bridging Ideas, Uniting Teams – Thriving in Code and Creativity)
+- ⚡ Motivation - The desire to expand my skillset, take on more complex projects, and learn in-demand technologies with the mindset "Crafting
+                  Logic, Bridging Ideas, Uniting Teams – Thriving in Code and Creativity"
+
 
 - 💬 Ask me about **WEB DEV, SOFTWARE DEV, AUTH**
 
