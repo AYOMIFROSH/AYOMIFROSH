@@ -35,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayomifrosh&show_icons=true&locale=en" alt="ayomifrosh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayomifrosh&" alt="ayomifrosh" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ayomifrosh&limit=5&theme=flat&combine_all_yearly_contributions=true)
