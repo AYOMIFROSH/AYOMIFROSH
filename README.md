@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Olumade Temitayo Oluwanishola</h1>
+<h1 align="center">Hi 👋, I'm Olumade Oluwanishola Temitayo</h1>
 <div> <img src="https://raw.githubusercontent.com/AYOMIFROSH/AYOMIFROSH/main/bannerpic.png"> </div>
 <h3 align="center">I am a Passionate Certified Full Stack JavaScript | Python Programmer | B.Eng. Materials and Metallurgical Engineer from Nigeria, with 2+ years of robust experience in web/software development</h3>
 <i align="center"><a href="https://ayomifrosh-portfolio-building.vercel.app" target="blank">Portfolio Website</a></i>
